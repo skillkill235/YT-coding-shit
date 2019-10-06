@@ -1,0 +1,11 @@
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\obj\Debug\netcoreapp2.1\YT Coding Lessons.csprojAssemblyReference.cache
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\obj\Debug\netcoreapp2.1\YT Coding Lessons.csproj.CoreCompileInputs.cache
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\obj\Debug\netcoreapp2.1\YT Coding Lessons.AssemblyInfoInputs.cache
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\obj\Debug\netcoreapp2.1\YT Coding Lessons.AssemblyInfo.cs
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\bin\Debug\netcoreapp2.1\YT Coding Lessons.deps.json
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\bin\Debug\netcoreapp2.1\YT Coding Lessons.runtimeconfig.json
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\bin\Debug\netcoreapp2.1\YT Coding Lessons.runtimeconfig.dev.json
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\bin\Debug\netcoreapp2.1\YT Coding Lessons.dll
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\bin\Debug\netcoreapp2.1\YT Coding Lessons.pdb
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\obj\Debug\netcoreapp2.1\YT Coding Lessons.dll
+C:\Users\mKevi\Desktop\YT Coding Lessons\YT Coding Lessons\YT Coding Lessons\obj\Debug\netcoreapp2.1\YT Coding Lessons.pdb
